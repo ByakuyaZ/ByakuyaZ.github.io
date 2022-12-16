@@ -258,7 +258,7 @@ body::before{
     width: 100%;
     z-index: -1;
     background: var(--color-darkblue);
-    background-image: url(file:///C:/Users/Ryan/Downloads/pexels-veeterzy-114979.jpg);
+    background-image: url("https://i.ibb.co/nBS8xBM/pexels-veeterzy-114979-1.jpg" alt="pexels-veeterzy-114979-1");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
